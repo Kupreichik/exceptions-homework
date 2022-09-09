@@ -12,4 +12,4 @@
   }
 /* У меня получилось только это:
 1) error: incompatible types: int cannot be converted to String
-2) error: class, interface, or enum expected */
+*/
